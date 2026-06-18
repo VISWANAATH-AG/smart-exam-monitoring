@@ -1,0 +1,8 @@
+SMART EXAM MONITORING REPORT
+
+Approved Violations: 2
+
+Risk Level: MEDIUM
+
+Recommendation:
+Manual review recommended.
